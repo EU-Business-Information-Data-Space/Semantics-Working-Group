@@ -14,7 +14,7 @@ In the context of the BIDS, since it is a European Data Space, we should look fo
 The process for the creation of data products that are based on "interlinked" data desriptions, which are inheretly semantically interoperable is as follows:
 
 1. Define the essential concepts that are needed for commonly developed descriptions of the data products involved by creating a SKOS Ontology with the Terminologies tool of the IoP
-2. Model a Business Information Core Vocabulary (BICV) with the Data Vocabularies tool of the IoP
+2. Model a Business Information Core Vocabulary (BICV) with the Data Vocabularies tool of the IoP and link the classes and properties to the concepts defined in step 1
 3. Choose which external standards, vocabularies, reference data models or ontologies the BIDS data product descriptions need to be aligned with (a proposal for a list of these can be found at the end of this document)
 4. Link the classes, attributes and associations in the BICV to the relevant classes and properties in the external models (namespaces) decided upon in step 3; NB: actual linking to external namespaces requires that the vocabularies/ontologies are W3C Semantic Web / Linked Data compliant aka have resolvable URIs and have content negotiation enabled on the publication server > this issue needs to be addressed specifically by the BIDS Governance Body
 5. Model unique data products as application profiles (SHACL Shapes), reusing the reusable components of the BICV and the accompanying code lists created with the Reference Data tool of the IoP
