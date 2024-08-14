@@ -30,7 +30,7 @@ Directly linkable as W3C Linked Data
 - FOAF
 - GS1 Vocabulary
 - FEDeRATED ontologies
-- ELM vocabulary
+- ELM European Learning Model
 
  Vocabularies/ontologies that need minor or major revisions in order to be compatible
 - UN/CEFACT CCL
@@ -39,7 +39,8 @@ Directly linkable as W3C Linked Data
 - EU Core Person vocabulary
 - EU Core Business vocabulary
 - EU Core Location vocabulary
-- Core Criterion and Core Evidence Vocabulary
+- EU Core Criterion and Core Evidence Vocabulary
 - W3C Registered Organization Vocabulary
 - W3C Legal Entity Vocabulary
 - W3C Asset Description Metadata Schema
+- WCO Data Model
