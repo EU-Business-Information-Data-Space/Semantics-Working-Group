@@ -6,4 +6,4 @@ In the [Business Information Data Space](BIDS_Rulebook_v0.1.md), like in any dat
 In the context of the BIDS, since it is a European Data Space, we should look for guidance in the DSSC Blueprint:
 <img src="https://dssc.eu/download/attachments/357075098/image-20240214-145201.png" alt="DSSC Image" width="85%"/>
 <p>The different "standards" mentioned previously can in this context be seen as instances of different "vocabulary based ontologies" that need to be mapped together into one "master vocabulary/ontology" for the data space. (The distinction between the terms "vocabulary" and "ontology" is unfortunately not universally accepted, which sometimes leads to confusion.)
-
+The Ministry of 
