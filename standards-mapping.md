@@ -21,4 +21,25 @@ The process for the creation of data products that are based on "interlinked" da
 6. Produce actual data product schemas by using the Export feature of the Data Vocabularies tool; the SHACL Shape application profile is converted to either JSON-LD, JSON, RDF, Turtle, OpenAPI or other necessary technical formats.
 7. Outside the scope of the Semantic Group Work; use the created data product descriptions (preferrably as JSON-LD schemas) to map data sets in legacy systems to the semantically interoperable schema and publish the data sharing mechanism in a data catalogue or another applicable format that enables the discovery of the data products that are on offer.
 
-   
+Annex 1: List of external vocabularies/ontologies relevant for BIDS
+
+Directly linkable as W3C Linked Data
+- UN/CEFACT BSP Vocabulary
+- UN/CEFACT DPP Vocabulary
+- Schema.org
+- FOAF
+- GS1 Vocabulary
+- FEDeRATED ontologies
+- ELM vocabulary
+
+ Vocabularies/ontologies that need minor or major revisions in order to be compatible
+- UN/CEFACT CCL
+- IATA One Record
+- UBL 2.x
+- EU Core Person vocabulary
+- EU Core Business vocabulary
+- EU Core Location vocabulary
+- Core Criterion and Core Evidence Vocabulary
+- W3C Registered Organization Vocabulary
+- W3C Legal Entity Vocabulary
+- W3C Asset Description Metadata Schema
